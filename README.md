@@ -44,7 +44,7 @@
 <br/>
 
 ### 📧 Email Delivery — Presentation Ready
-![Email Delivery](./docs/screenshots/email-delivery.png)
+![Email Delivery](email-delivery.png.png)
 *Professional HTML email with Google Slides link delivered to inbox automatically*
 
 <br/>
