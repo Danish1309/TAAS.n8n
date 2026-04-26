@@ -38,7 +38,7 @@
 <br/>
 
 ### ⚙️ n8n Master Router Workflow
-![n8n Master Router](./docs/screenshots/n8n-master-router.png)
+![n8n Master Router](n8n-master-router.png.png)
 *7 connected workflows — Webhook → Extract Data → Switch → 6 Sub-workflows*
 
 <br/>
