@@ -32,7 +32,7 @@
 <div align="center">
 
 ### 🏠 Landing Page — Live on Netlify
-![TAAS Landing Page](./docs/screenshots/landing-page.png)
+![TAAS Landing Page](landing-page.png.png)
 *Glassmorphism UI with GSAP animations, particle background, and responsive design*
 
 <br/>
