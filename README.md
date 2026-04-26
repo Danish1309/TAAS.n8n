@@ -56,7 +56,7 @@
 <br/>
 
 ### ✍️ AI-Generated Quiz Document
-![Generated Quiz](./docs/screenshots/generated-quiz.png)
+![Generated Quiz](generated-quiz.png.png)
 *Complete quiz with MCQs, short answers, instructions, and answer key — auto-saved to Google Docs*
 
 </div>
