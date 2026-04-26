@@ -50,7 +50,7 @@
 <br/>
 
 ### 📊 AI-Generated Google Slides Presentation
-![Generated Slides](./docs/screenshots/generated-slides.png)
+![Generated Slides](generated-slides.png.png)
 *10-slide presentation on "Introduction to Artificial Intelligence" — generated in under 60 seconds*
 
 <br/>
